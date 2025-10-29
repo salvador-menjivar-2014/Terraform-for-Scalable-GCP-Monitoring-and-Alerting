@@ -2,7 +2,7 @@
 
 This Terraform configuration automates the setup of a centralized monitoring and alerting solution for a multi-project Google Cloud Platform (GCP) environment. It's designed to be a reusable, best-practice template for cloud operations.
 
-![Terraform GCP Monitoring](https://i.imgur.com/your-image-here.png)  <!-- Optional: Add a diagram or screenshot to make it more visual -->
+
 
 ---
 
